@@ -1,0 +1,6 @@
+4- Supondo que a entrada seja um valor igual a 4, por exemplo, o código exibirá:
+Digite um valor para n: 4
+2 3 4 5
+3 4 5 6
+4 5 6 7
+5 6 7 8
